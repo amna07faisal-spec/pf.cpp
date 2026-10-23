@@ -12,7 +12,7 @@ cout<<"Enter age: ";
     cin>>age;   
     if (marks>=60)
     {
-        if (age>=18)
+        if (age>=20)
         {
             cout<<"You are eligible for admission";
         }
@@ -27,3 +27,4 @@ cout<<"Enter age: ";
     }
     return 0;
 }
+//HALOOOOOOOOOOO
